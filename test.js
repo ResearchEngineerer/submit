@@ -1,3 +1,4 @@
+echo 'Ethical hacking';
 var exec = require('child_process').exec;
 
 exec('whoami',
